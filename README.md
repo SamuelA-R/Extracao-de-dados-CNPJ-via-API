@@ -5,7 +5,7 @@ A versão do Python utilizado foi 3.11.7
 **Informações possíveis de serem extraídas:**
 
 - **Status**:
-  - `status`: Status da resposta (ex: "OK").
+  - `status`: Status da resposta (ex: "Ativo ou inativo").
 
 - **Última Atualização**:
   - `ultima_atualizacao`: Data e hora da última atualização.
