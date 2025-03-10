@@ -62,8 +62,9 @@ A versão do Python utilizado foi 3.11.7
   - `billing`: Se a empresa possui acesso gratuito e está registrada na base de dados.
 
 # Pré-requisitos
-Antes de rodas o código, você vai precisar instalar as seguintes bibliotecas: `requests`, `json` e `pandas`.  
-Você pode instalar as bibliotecas necessárias utilizando o código **`pip install requests pandas`**.
+Antes de rodar o código, você vai precisar importar as seguintes bibliotecas: requests, json, time e pandas.
+
+**Observação**: A biblioteca json e 'time' já é parte da biblioteca padrão do Python, então você não precisa instalá-la separadamente. Você pode instalar as bibliotecas necessárias utilizando o código **pip install requests, pandas**.
 
 # Comentário
 Esse projeto foi essencial para uma demanda em que precisei corrigir dados inconsistentes, como nomes, nomes fantasia e razão social digitados incorretamente.  
